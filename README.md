@@ -1,5 +1,6 @@
 # Modelos-Machine-Learning
 Documento de estudo do curso: Aprenda Machine Learning em Python com Scikit-learn
+
 Link: https://www.udemy.com/course/aprenda-machine-learning-em-python-com-scikit-learn/
 
 ## Neste documento foi abordado 3 modelos de Machine Learning: 
